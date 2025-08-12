@@ -11,7 +11,7 @@ import { configDotenv } from "dotenv";
 const discord_serve = (port: number) => {
 
     configDotenv({
-        path: "./src/.env"
+        path: "./.env"
     });
 
     const server = new WebSocketServer({
