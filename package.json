@@ -1,0 +1,23 @@
+{
+    "name": "florr_sping",
+    "version": "1.0.0",
+    "main": "./src/main.ts",
+    "scripts": {
+        "start": "ts-node ./src/main.ts"
+    },
+    "keywords": [],
+    "author": "810senpai",
+    "license": "MIT",
+    "description": "haw",
+    "dependencies": {
+        "discord.js-selfbot-v13": "^3.7.0",
+        "ws": "^8.18.3"
+    },
+    "devDependencies": {
+        "@types/node": "^24.2.0",
+        "@types/ws": "^8.18.1",
+        "dotenv": "^17.2.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.9.2"
+    }
+}
