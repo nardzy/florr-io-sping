@@ -20,3 +20,5 @@ to get token, read [this](<https://github.com/aiko-chan-ai/discord.js-selfbot-v1
 ```pwsh
 npm run start
 ```
+
+( sorry for less infomation )
