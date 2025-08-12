@@ -9,8 +9,8 @@ Super ping websocket application
 npm install
 ```
 
-- Open ./src/.env
-- put discord token ( suggest use another account )
+- Create .env file
+- put discord token ( TOKEN=YOUR_DISCORD_TOKEN ) suggest use another account
 - atleast you need to join official florrcord to receive messages
 
 to get token, read [this](<https://github.com/aiko-chan-ai/discord.js-selfbot-v13/blob/main/README.md>)
