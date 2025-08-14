@@ -19,5 +19,16 @@
         "dotenv": "^17.2.1",
         "ts-node": "^10.9.2",
         "typescript": "^5.9.2"
-    }
+    },
+    "directories": {
+        "example": "example"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nardzy/florr-io-sping.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nardzy/florr-io-sping/issues"
+    },
+    "homepage": "https://github.com/nardzy/florr-io-sping#readme"
 }
