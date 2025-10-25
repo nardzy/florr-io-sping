@@ -9,7 +9,8 @@ enum Region {
 enum PackSignal {
     CraftNotify,
     SpawnNotify,
-    DefeatNotify
+    DefeatNotify,
+    SummonNotify
 }
 
 const convert_region = (
@@ -622,6 +623,23 @@ const main = async () => {
                 });
 
                 break;
+            }
+            case PackSignal.SummonNotify: {
+
+                const id = parser.read_u8_str();
+                const id_mob = parser.read_u8();
+                const region = convert_region(parser.read_u8());
+                const is_super = parser.read_u8() === 1;
+
+                console.log("Summon", {
+                    id,
+                    id_mob,
+                    region,
+                    is_super
+                });
+
+                break;
+
             }
             default:
                 break;

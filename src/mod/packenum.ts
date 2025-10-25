@@ -1,5 +1,6 @@
 export enum PackSignal {
     CraftNotify,
     SpawnNotify,
-    DefeatNotify
+    DefeatNotify,
+    SummonNotify,
 }

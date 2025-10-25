@@ -1,12 +1,15 @@
-import { Client } from "discord.js-selfbot-v13";
-import { WebSocketServer } from "ws";
-import { Packer } from "./mod/pack";
+
+
+// biome-ignore assist/source/organizeImports: aaad
 import { FLORR_GAME_CHANNEL_ID, MAX_SUPER_LOGTIME, PORT } from "./config";
-import { convert_region, MobReel, Region } from "./mod/reel";
+import { Packer } from "./mod/pack";
+import { convert_region, MobReel, type Region } from "./mod/reel";
 import { PackSignal } from "./mod/packenum";
 import { florrio_get_mob_by_sid } from "./mod/florrio/mobs";
-import { Mob, mobmap } from "./mod/mob";
+import { type Mob, mobmap } from "./mod/mob";
 import { configDotenv } from "dotenv";
+import { WebSocketServer } from "ws";
+import { Client } from "discord.js-selfbot-v13";
 
 const discord_serve = (port: number) => {
 
@@ -109,6 +112,28 @@ const discord_serve = (port: number) => {
 
     };
 
+    const write_summon = (
+        id: string,
+        id_mob: number,
+        region: Region,
+        is_super: boolean
+    ) => {
+
+        packer.write_u8(
+            PackSignal.SummonNotify
+        );
+
+        packer.write_u8_str(id);
+        packer.write_u8(id_mob);
+        packer.write_u8(region);
+        packer.write_u8(is_super ? 1 : 0);
+
+        const buf = packer.release_view();
+
+        return buf;
+
+    };
+
     const write_defeat = (
         id: string,
         id_mob: number,
@@ -189,6 +214,7 @@ const discord_serve = (port: number) => {
         {
 
             const is_defeated = text.includes("n d");
+            const is_summoned = text.includes("n s");
 
             const n = message.thumbnail?.url.split("/");
             const nam = n ? n[n?.length - 1].split(".png")[0].split("-")[1] : null;
@@ -203,16 +229,22 @@ const discord_serve = (port: number) => {
 
             const mob = mobmap.get(name);
 
-            const buf = is_defeated ? (
-                write_defeat(
-                    msg.id,
-                    id,
-                    region_id,
-                    is_super,
-                    text,
-                    mob
-                )
-            ) : write_spawn(
+            const buf =
+            is_defeated ? write_defeat(
+                msg.id,
+                id,
+                region_id,
+                is_super,
+                text,
+                mob
+            )
+            : is_summoned ? write_summon(
+                msg.id,
+                id,
+                region_id,
+                is_super
+            )
+            : write_spawn(
                 msg.id,
                 id,
                 region_id,
@@ -240,7 +272,7 @@ const discord_serve = (port: number) => {
         if (!message) return;
 
         //const x = msg.editedAt?.valueOf() ?? 0; <- looks buggy
-        const x = new Date().valueOf();
+        const x = Date.now();
         const y = msg.createdAt.valueOf();
 
         const diff = x - y;

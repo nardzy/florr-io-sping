@@ -1,6 +1,7 @@
 
-import { get_mob_groups, Mob, MobGroup, mobmap } from "./mob";
+
 import { SUPER_INTERVAL } from "../config";
+import { get_mob_groups, type Mob, type MobGroup, mobmap } from "./mob";
 
 export enum Region {
     NA,
@@ -48,7 +49,7 @@ class Reel {
             return true;
         }
 
-        const now = new Date().valueOf();
+        const now = Date.now();
         const last = date.valueOf();
         const diff = now - last;
 
