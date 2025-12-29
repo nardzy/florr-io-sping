@@ -112,8 +112,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        121500,
-                        243000
+                        157950,
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -130,8 +130,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        1458000,
-                        2916000
+                        9841500,
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -142,14 +142,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 19897
+                "exp": 131384
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        65610000,
-                        131220000
+                        218700000,
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -160,14 +160,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2170607
+                "exp": 6824717
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        984150016,
-                        1968300032
+                        1312199936,
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -195,8 +195,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        37.5,
-                        56.25
+                        35,
+                        52.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -213,8 +213,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        140.625,
-                        210.9375
+                        131.25,
+                        196.875
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -230,8 +230,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        506.25,
-                        759.375
+                        472.5,
+                        708.75
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -248,8 +248,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        2025,
-                        3037.5
+                        1890,
+                        2835
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -266,8 +266,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        12150,
-                        18225
+                        11340,
+                        17010
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -284,8 +284,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        91125,
-                        136687.5
+                        110565,
+                        165847.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -302,8 +302,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        1093500,
-                        1640250
+                        6889050,
+                        10333575
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -314,14 +314,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 13777
+                "exp": 91991
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        49207500,
-                        73811248
+                        153090000,
+                        229635008
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -332,14 +332,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 1520835
+                "exp": 4672705
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        738112512,
-                        1107168768
+                        918540032,
+                        1377810048
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -371,7 +371,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -388,7 +388,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -405,7 +405,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -422,7 +422,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -439,7 +439,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -456,7 +456,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -473,7 +473,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -484,13 +484,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -501,13 +501,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -543,7 +543,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        37.5
+                        35
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -560,7 +560,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        140.625
+                        131.25
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -576,7 +576,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        506.25
+                        472.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -593,7 +593,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2025
+                        1890
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -610,7 +610,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        12150
+                        11340
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -627,7 +627,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        91125
+                        110565
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -644,7 +644,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1093500
+                        6889050
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -655,13 +655,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 41076
+                "exp": 265693
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        49207500
+                        153090000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -672,13 +672,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 4495763
+                "exp": 13376259
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        738112512
+                        918540032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -696,12 +696,12 @@ const florrio_mobs = [
         "id": 5,
         "drops": [
             {
-                "baseChance": 0.25,
-                "type": 2
+                "baseChance": 0.5,
+                "type": 24
             },
             {
                 "baseChance": 0.25,
-                "type": 24
+                "type": 2
             },
             {
                 "baseChance": 0.15,
@@ -759,7 +759,7 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 7
+                "exp": 9
             },
             {
                 "tooltip": [
@@ -776,7 +776,7 @@ const florrio_mobs = [
                         22
                     ]
                 ],
-                "exp": 57
+                "exp": 67
             },
             {
                 "tooltip": [
@@ -793,13 +793,13 @@ const florrio_mobs = [
                         65
                     ]
                 ],
-                "exp": 518
+                "exp": 615
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -810,13 +810,13 @@ const florrio_mobs = [
                         194
                     ]
                 ],
-                "exp": 7280
+                "exp": 8164
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -827,13 +827,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 56164
+                "exp": 419529
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -844,13 +844,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 6226562
+                "exp": 19893553
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -882,7 +882,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -899,7 +899,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -915,7 +915,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -932,7 +932,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -949,7 +949,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -966,7 +966,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -983,7 +983,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -994,13 +994,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27554
+                "exp": 183982
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1011,13 +1011,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3041670
+                "exp": 9345409
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1134,7 +1134,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1151,7 +1151,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1162,13 +1162,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 45972
+                "exp": 276147
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1179,13 +1179,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 5090617
+                "exp": 13608888
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1301,7 +1301,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        607500
+                        789750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1318,7 +1318,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        7290000
+                        49207500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1329,13 +1329,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 61479
+                "exp": 342936
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        328049984
+                        1093500032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1346,13 +1346,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 6830814
+                "exp": 15878612
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4920750080
+                        6560999936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1469,7 +1469,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        2369250
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1486,7 +1486,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        21870000
+                        147622496
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1497,13 +1497,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 38720
+                "exp": 242704
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        3280499968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1514,13 +1514,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 4300438
+                "exp": 12142438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        14762250240
+                        19683000320
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1637,7 +1637,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1654,7 +1654,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1665,13 +1665,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 59554
+                "exp": 327538
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1682,13 +1682,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 6445924
+                "exp": 15220849
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1724,7 +1724,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1749,7 +1749,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1761,7 +1761,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        18.75
+                        25
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -1774,7 +1774,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1786,7 +1786,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        67.5
+                        125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -1799,7 +1799,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1811,7 +1811,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        270
+                        625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -1824,7 +1824,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1836,7 +1836,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        1620
+                        3125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -1849,7 +1849,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1861,7 +1861,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        12150
+                        15625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -1874,7 +1874,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1886,20 +1886,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        145800
+                        78125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         7290
                     ]
                 ],
-                "exp": 52328
+                "exp": 328175
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1911,20 +1911,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        6561000
+                        390625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         21870
                     ]
                 ],
-                "exp": 5777177
+                "exp": 16401473
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -1936,7 +1936,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        98415000
+                        1953125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -2048,7 +2048,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2065,7 +2065,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2076,13 +2076,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 12033
+                "exp": 76722
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2093,13 +2093,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 1196559
+                "exp": 3895257
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2215,7 +2215,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2232,7 +2232,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2243,13 +2243,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 12033
+                "exp": 76722
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2260,13 +2260,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 1196559
+                "exp": 3895257
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2382,7 +2382,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2399,7 +2399,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2410,13 +2410,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 19794
+                "exp": 130352
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2427,13 +2427,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2119114
+                "exp": 6620333
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2461,7 +2461,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        37.5
+                        35
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2478,7 +2478,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        140.625
+                        131.25
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2494,7 +2494,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        506.25
+                        472.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2510,7 +2510,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2025
+                        1890
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2526,7 +2526,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        12150
+                        11340
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2542,7 +2542,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        91125
+                        110565
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2558,7 +2558,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1093500
+                        6889050
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2574,7 +2574,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        49207500
+                        153090000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2590,7 +2590,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        738112512
+                        918540032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2622,7 +2622,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        87.5
+                        85
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2639,7 +2639,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        328.125
+                        318.75
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2655,7 +2655,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1181.25
+                        1147.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2672,7 +2672,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4725
+                        4590
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2689,7 +2689,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        28350
+                        27540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2706,7 +2706,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        212625
+                        268515
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2723,7 +2723,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2551500
+                        16730550
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2734,13 +2734,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 31135
+                "exp": 197956
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        114817504
+                        371790016
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2751,13 +2751,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3424313
+                "exp": 9925911
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1722262528
+                        2230739968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2793,7 +2793,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        87.5
+                        85
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2810,7 +2810,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        328.125
+                        318.75
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2826,7 +2826,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1181.25
+                        1147.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2843,7 +2843,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4725
+                        4590
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2860,7 +2860,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        28350
+                        27540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2877,7 +2877,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        212625
+                        268515
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2894,7 +2894,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2551500
+                        16730550
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2905,13 +2905,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 173835
+                "exp": 801721
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        114817504
+                        371790016
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2922,13 +2922,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 17044162
+                "exp": 28427241
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1722262528
+                        2230739968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2964,7 +2964,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -2986,7 +2986,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3008,7 +3008,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3030,7 +3030,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3052,7 +3052,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3074,7 +3074,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3096,7 +3096,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3112,13 +3112,13 @@ const florrio_mobs = [
                         10935
                     ]
                 ],
-                "exp": 43210
+                "exp": 268500
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3134,13 +3134,13 @@ const florrio_mobs = [
                         32805
                     ]
                 ],
-                "exp": 4902959
+                "exp": 13451796
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3219,7 +3219,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        18.75
+                        25
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3249,7 +3249,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        67.5
+                        125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3279,7 +3279,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        270
+                        625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3309,7 +3309,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        1620
+                        3125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3327,7 +3327,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3339,7 +3339,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        12150
+                        15625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3357,7 +3357,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3369,7 +3369,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        145800
+                        78125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3381,13 +3381,13 @@ const florrio_mobs = [
                         10935
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3399,7 +3399,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        6561000
+                        390625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3411,13 +3411,13 @@ const florrio_mobs = [
                         32805
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3429,7 +3429,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        98415000
+                        1953125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -3452,8 +3452,8 @@ const florrio_mobs = [
                 "type": 28
             },
             {
-                "baseChance": 0.15,
-                "type": 58
+                "baseChance": 0.25,
+                "type": 106
             }
         ],
         "sid": "fire_ant_soldier",
@@ -3507,7 +3507,7 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 5
+                "exp": 6
             },
             {
                 "tooltip": [
@@ -3524,7 +3524,7 @@ const florrio_mobs = [
                         22
                     ]
                 ],
-                "exp": 38
+                "exp": 44
             },
             {
                 "tooltip": [
@@ -3541,13 +3541,13 @@ const florrio_mobs = [
                         65
                     ]
                 ],
-                "exp": 350
+                "exp": 400
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3558,13 +3558,13 @@ const florrio_mobs = [
                         194
                     ]
                 ],
-                "exp": 4875
+                "exp": 5437
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3575,13 +3575,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 38556
+                "exp": 276147
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3592,13 +3592,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 4258588
+                "exp": 13608888
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3644,10 +3644,10 @@ const florrio_mobs = [
                 "exp": 6321
             },
             {
-                "exp": 63140
+                "exp": 343247
             },
             {
-                "exp": 6830814
+                "exp": 15878612
             },
             {}
         ]
@@ -3758,7 +3758,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        303750
+                        394875
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3775,7 +3775,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3645000
+                        24603750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3786,13 +3786,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 29735
+                "exp": 198089
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        164024992
+                        546750016
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3803,13 +3803,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3190564
+                "exp": 10070681
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2460375040
+                        3280499968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3841,7 +3841,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        0.5
+                        1
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3858,7 +3858,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1.875
+                        3.75
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3875,7 +3875,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        6.75
+                        13.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3892,7 +3892,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        27
+                        54
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3909,7 +3909,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        162
+                        324
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3926,7 +3926,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1215
+                        3159
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3943,7 +3943,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        14580
+                        196830
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3954,13 +3954,13 @@ const florrio_mobs = [
                         4228
                     ]
                 ],
-                "exp": 88931
+                "exp": 432420
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        656100
+                        4374000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -3971,13 +3971,13 @@ const florrio_mobs = [
                         11518
                     ]
                 ],
-                "exp": 8828414
+                "exp": 16316540
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        9841500
+                        26244000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4050,7 +4050,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        18.75
+                        25
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4074,7 +4074,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        67.5
+                        125
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4099,7 +4099,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        270
+                        625
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4124,7 +4124,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        1620
+                        3125
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4137,7 +4137,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4149,7 +4149,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        12150
+                        15625
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4162,7 +4162,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4174,20 +4174,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        145800
+                        78125
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
                         7290
                     ]
                 ],
-                "exp": 118640
+                "exp": 592895
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4199,20 +4199,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        6561000
+                        390625
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
                         21870
                     ]
                 ],
-                "exp": 12222887
+                "exp": 24350794
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4224,7 +4224,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PollenHealth",
-                        98415000
+                        1953125
                     ],
                     [
                         "Mob/Attribute/PollenDamage",
@@ -4293,7 +4293,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        187.5
+                        250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4317,7 +4317,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        675
+                        1250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4342,7 +4342,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        2700
+                        6250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4367,7 +4367,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        16200
+                        31250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4380,7 +4380,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4392,7 +4392,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        121500
+                        156250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4405,7 +4405,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4417,20 +4417,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        1458000
+                        781250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
                         7290
                     ]
                 ],
-                "exp": 37541
+                "exp": 232151
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4442,20 +4442,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        65610000
+                        3906250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
                         21870
                     ]
                 ],
-                "exp": 4071020
+                "exp": 11648938
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4467,7 +4467,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/PearlHealth",
-                        984150016
+                        19531250
                     ],
                     [
                         "Mob/Attribute/PearlDamage",
@@ -4583,7 +4583,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4600,7 +4600,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4611,13 +4611,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 33226
+                "exp": 206940
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4628,13 +4628,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3549422
+                "exp": 10370819
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4750,7 +4750,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        182250
+                        236925
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4767,7 +4767,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2187000
+                        14762250
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4778,13 +4778,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27210
+                "exp": 168580
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        98415000
+                        328049984
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4795,13 +4795,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2951143
+                "exp": 8423191
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1476225024
+                        1968300032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -4957,7 +4957,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        182250
+                        236925
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -4982,7 +4982,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2187000
+                        14762250
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -5001,13 +5001,13 @@ const florrio_mobs = [
                         14
                     ]
                 ],
-                "exp": 34971
+                "exp": 222210
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        98415000
+                        328049984
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -5026,13 +5026,13 @@ const florrio_mobs = [
                         16
                     ]
                 ],
-                "exp": 3873698
+                "exp": 11148267
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1476225024
+                        1968300032
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -5072,7 +5072,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        375
+                        350
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5089,7 +5089,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1406.25
+                        1312.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5105,7 +5105,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        5062.5
+                        4725
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5122,7 +5122,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        18900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5139,7 +5139,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        113400
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5156,7 +5156,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        911250
+                        1105650
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5173,7 +5173,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        10935000
+                        68890496
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5184,13 +5184,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27554
+                "exp": 183982
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        1530899968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5201,13 +5201,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3041670
+                "exp": 9345409
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        7381125120
+                        9185399808
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5323,7 +5323,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5340,7 +5340,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5351,13 +5351,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 31135
+                "exp": 197956
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5368,13 +5368,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3424313
+                "exp": 9925911
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5511,7 +5511,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5532,7 +5532,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5547,13 +5547,13 @@ const florrio_mobs = [
                         5103
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5568,13 +5568,13 @@ const florrio_mobs = [
                         15309
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5647,7 +5647,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        9.375
+                        12.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5675,7 +5675,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        33.75
+                        62.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5704,7 +5704,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        135
+                        312.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5733,7 +5733,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        810
+                        1562.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5750,7 +5750,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5762,7 +5762,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        6075
+                        7812.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5779,7 +5779,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5791,7 +5791,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        72900
+                        39062.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5802,13 +5802,13 @@ const florrio_mobs = [
                         30
                     ]
                 ],
-                "exp": 24779
+                "exp": 145928
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5820,7 +5820,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        3280500
+                        195312.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5831,13 +5831,13 @@ const florrio_mobs = [
                         30
                     ]
                 ],
-                "exp": 2737754
+                "exp": 7133325
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5849,7 +5849,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/DandelionHealth",
-                        49207500
+                        976562.5
                     ],
                     [
                         "Mob/Attribute/DandelionDamage",
@@ -5867,11 +5867,15 @@ const florrio_mobs = [
         "id": 37,
         "drops": [
             {
+                "baseChance": 0.5,
+                "type": 112
+            },
+            {
                 "baseChance": 0.25,
                 "type": 2
             },
             {
-                "baseChance": 0.1,
+                "baseChance": 0.15,
                 "type": 28
             }
         ],
@@ -5908,7 +5912,8 @@ const florrio_mobs = [
                         "Mob/Attribute/Armor",
                         2
                     ]
-                ]
+                ],
+                "exp": 2
             },
             {
                 "tooltip": [
@@ -5925,7 +5930,7 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 5
+                "exp": 9
             },
             {
                 "tooltip": [
@@ -5942,7 +5947,7 @@ const florrio_mobs = [
                         22
                     ]
                 ],
-                "exp": 33
+                "exp": 67
             },
             {
                 "tooltip": [
@@ -5959,13 +5964,13 @@ const florrio_mobs = [
                         65
                     ]
                 ],
-                "exp": 297
+                "exp": 615
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        78975
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5976,13 +5981,13 @@ const florrio_mobs = [
                         194
                     ]
                 ],
-                "exp": 4242
+                "exp": 8164
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        4920750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -5993,13 +5998,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 31135
+                "exp": 419529
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        109350000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6010,13 +6015,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3424313
+                "exp": 19893553
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6048,7 +6053,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6065,7 +6070,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6081,7 +6086,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6098,7 +6103,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6115,7 +6120,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6132,7 +6137,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6149,7 +6154,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6160,13 +6165,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27554
+                "exp": 183982
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6177,13 +6182,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3041670
+                "exp": 9345409
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6299,7 +6304,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        607500
+                        789750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6316,7 +6321,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        7290000
+                        49207500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6327,13 +6332,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 61479
+                "exp": 342936
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        328049984
+                        1093500032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6344,13 +6349,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 6830814
+                "exp": 15878612
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4920750080
+                        6560999936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6462,7 +6467,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6479,7 +6484,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6490,13 +6495,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 21194
+                "exp": 130219
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6507,13 +6512,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2352864
+                "exp": 6475563
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6625,7 +6630,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6642,7 +6647,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6653,13 +6658,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 21194
+                "exp": 130219
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6670,13 +6675,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2352864
+                "exp": 6475563
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6817,7 +6822,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        12150
+                        15795
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6838,7 +6843,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        145800
+                        984150
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6853,13 +6858,13 @@ const florrio_mobs = [
                         0.8999999761581421
                     ]
                 ],
-                "exp": 52328
+                "exp": 328175
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        6561000
+                        21870000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -6874,13 +6879,13 @@ const florrio_mobs = [
                         0.8999999761581421
                     ]
                 ],
-                "exp": 5777177
+                "exp": 16401473
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        98415000
+                        131220000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7001,7 +7006,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7018,7 +7023,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7029,13 +7034,13 @@ const florrio_mobs = [
                         7873
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7046,13 +7051,13 @@ const florrio_mobs = [
                         22453
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7129,7 +7134,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        9.375
+                        12.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7162,7 +7167,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        33.75
+                        62.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7195,7 +7200,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        135
+                        312.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7228,7 +7233,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        810
+                        1562.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7249,7 +7254,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7261,7 +7266,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        6075
+                        7812.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7282,7 +7287,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7294,7 +7299,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        72900
+                        39062.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7309,13 +7314,13 @@ const florrio_mobs = [
                         10
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7327,7 +7332,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        3280500
+                        195312.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7342,13 +7347,13 @@ const florrio_mobs = [
                         10
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7360,7 +7365,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MantisPeaHealth",
-                        49207500
+                        976562.5
                     ],
                     [
                         "Mob/Attribute/MantisPeaDamage",
@@ -7396,7 +7401,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        25
+                        50
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7416,7 +7421,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        93.75
+                        187.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7435,7 +7440,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        337.5
+                        675
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7455,7 +7460,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1350
+                        2700
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7475,7 +7480,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        8100
+                        16200
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7495,7 +7500,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        60750
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7515,7 +7520,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        729000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7529,13 +7534,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 27210
+                "exp": 168580
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32805000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7549,13 +7554,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 2951143
+                "exp": 8423191
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        492075008
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7590,7 +7595,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        125
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7610,7 +7615,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        468.75
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7629,7 +7634,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        1687.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7649,7 +7654,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        6750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7669,7 +7674,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        40500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7689,7 +7694,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        394875
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7709,7 +7714,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        24603750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7723,13 +7728,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 19794
+                "exp": 130352
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        546750016
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7743,13 +7748,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 2119114
+                "exp": 6620333
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        3280499968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7771,7 +7776,7 @@ const florrio_mobs = [
         "drops": [
             {
                 "baseChance": 0.25,
-                "type": 106
+                "type": 58
             },
             {
                 "baseChance": 0.05,
@@ -7784,7 +7789,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        100
+                        200
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7804,7 +7809,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        375
+                        750
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7823,7 +7828,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1350
+                        2700
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7843,7 +7848,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        5400
+                        10800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7863,7 +7868,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32400
+                        64800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7883,7 +7888,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        631800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7903,7 +7908,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        39366000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7917,13 +7922,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 27210
+                "exp": 168580
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        874800000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7937,13 +7942,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 2951143
+                "exp": 8423191
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        5248799744
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -7965,15 +7970,15 @@ const florrio_mobs = [
         "drops": [
             {
                 "baseChance": 1,
+                "type": 60
+            },
+            {
+                "baseChance": 1,
                 "type": 71
             },
             {
                 "baseChance": 0.5,
                 "type": 53
-            },
-            {
-                "baseChance": 0.15,
-                "type": 60
             }
         ],
         "sid": "termite_overmind",
@@ -8036,7 +8041,7 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 6
+                "exp": 10
             },
             {
                 "tooltip": [
@@ -8056,7 +8061,7 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 46
+                "exp": 78
             },
             {
                 "tooltip": [
@@ -8076,13 +8081,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 426
+                "exp": 742
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1215000
+                        1579500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8096,13 +8101,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 5550
+                "exp": 8492
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        14580000
+                        98415000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8116,13 +8121,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 72773
+                "exp": 703964
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        656099968
+                        2187000064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8136,13 +8141,13 @@ const florrio_mobs = [
                         "Mob/Attribute/PsyonicConnection"
                     ]
                 ],
-                "exp": 12053846
+                "exp": 28425635
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        9841500160
+                        13121999872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8197,10 +8202,10 @@ const florrio_mobs = [
                 "exp": 7032
             },
             {
-                "exp": 52497
+                "exp": 334694
             },
             {
-                "exp": 5821273
+                "exp": 16815142
             },
             {}
         ]
@@ -8307,7 +8312,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8324,7 +8329,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8335,13 +8340,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27210
+                "exp": 168580
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8352,13 +8357,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2951143
+                "exp": 8423191
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8483,8 +8488,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        60750,
-                        121500
+                        78975,
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8501,8 +8506,8 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        729000,
-                        1458000
+                        4920750,
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8513,14 +8518,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 59657
+                "exp": 328571
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        32805000,
-                        65610000
+                        109350000,
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8531,14 +8536,14 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 6497417
+                "exp": 15425233
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/HealthRange",
-                        492075008,
-                        984150016
+                        656099968,
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8570,7 +8575,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        50
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8587,7 +8592,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        187.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8603,7 +8608,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        675
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8620,7 +8625,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        2700
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8637,7 +8642,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        16200
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8654,7 +8659,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8671,7 +8676,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8682,13 +8687,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 27210
+                "exp": 168580
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8699,13 +8704,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 2951143
+                "exp": 8423191
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8737,7 +8742,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        17.5
+                        15
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8754,7 +8759,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65.625
+                        56.25
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8771,7 +8776,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        236.25
+                        202.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8788,7 +8793,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        945
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8805,7 +8810,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        5670
+                        4860
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8822,7 +8827,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        42525
+                        47385
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8839,7 +8844,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        510300
+                        2952450
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8850,13 +8855,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 42387
+                "exp": 260438
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        22963500
+                        65610000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -8867,13 +8872,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 4705727
+                "exp": 12951125
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        344452512
+                        393660000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9034,7 +9039,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        97200
+                        126360
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9059,7 +9064,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1166400
+                        7873200
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9078,13 +9083,13 @@ const florrio_mobs = [
                         11
                     ]
                 ],
-                "exp": 48403
+                "exp": 298799
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        52488000
+                        174960000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9103,13 +9108,13 @@ const florrio_mobs = [
                         12
                     ]
                 ],
-                "exp": 5304006
+                "exp": 14898753
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        787320000
+                        1049760000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9237,7 +9242,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9254,7 +9259,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9265,13 +9270,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 16099
+                "exp": 95205
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9282,13 +9287,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 1570979
+                "exp": 4836146
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9324,7 +9329,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9349,7 +9354,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9361,7 +9366,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        18.75
+                        25
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9374,7 +9379,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9386,7 +9391,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        67.5
+                        125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9399,7 +9404,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9411,7 +9416,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        270
+                        625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9424,7 +9429,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9436,7 +9441,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        1620
+                        3125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9449,7 +9454,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9461,7 +9466,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        12150
+                        15625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9474,7 +9479,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9486,20 +9491,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        145800
+                        78125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         7290
                     ]
                 ],
-                "exp": 81260
+                "exp": 431479
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9511,20 +9516,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        6561000
+                        390625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         21870
                     ]
                 ],
-                "exp": 8456265
+                "exp": 18670535
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9536,7 +9541,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        98415000
+                        1953125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -9677,7 +9682,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9699,7 +9704,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9715,13 +9720,13 @@ const florrio_mobs = [
                         21870
                     ]
                 ],
-                "exp": 13335
+                "exp": 85740
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9737,13 +9742,13 @@ const florrio_mobs = [
                         65610
                     ]
                 ],
-                "exp": 1466003
+                "exp": 4451690
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9863,7 +9868,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9880,7 +9885,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9891,13 +9896,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 3107
+                "exp": 12512
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9908,13 +9913,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 235679
+                "exp": 613144
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9950,7 +9955,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9975,7 +9980,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -9987,7 +9992,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        9.375
+                        12.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10000,7 +10005,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10012,7 +10017,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        33.75
+                        62.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10025,7 +10030,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10037,7 +10042,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        135
+                        312.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10050,7 +10055,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10062,7 +10067,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        810
+                        1562.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10075,7 +10080,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10087,7 +10092,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        6075
+                        7812.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10100,7 +10105,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10112,20 +10117,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        72900
+                        39062.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         3645
                     ]
                 ],
-                "exp": 66304
+                "exp": 328935
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10137,20 +10142,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        3280500
+                        195312.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         10935
                     ]
                 ],
-                "exp": 6706012
+                "exp": 13504331
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10162,7 +10167,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        49207500
+                        976562.5
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -10202,11 +10207,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        175
+                        100
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        30
+                        15
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10219,11 +10224,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        656.25
+                        375
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        90
+                        45
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10236,11 +10241,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2362.5
+                        1350
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        270
+                        135
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10253,11 +10258,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        9450
+                        5400
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        810
+                        405
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10270,11 +10275,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        56700
+                        32400
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        2430
+                        1215
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10287,11 +10292,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        425250
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        7290
+                        3645
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10304,45 +10309,45 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        5103000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        21870
+                        10935
                     ],
                     [
                         "Mob/Attribute/Armor",
                         583
                     ]
                 ],
-                "exp": 105408
+                "exp": 725319
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        229635008
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        65610
+                        32805
                     ],
                     [
                         "Mob/Attribute/Armor",
                         583
                     ]
                 ],
-                "exp": 15851403
+                "exp": 35741620
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3444525056
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        196830
+                        98415
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10495,7 +10500,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        97200
+                        126360
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10520,7 +10525,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1166400
+                        7873200
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10539,13 +10544,13 @@ const florrio_mobs = [
                         11
                     ]
                 ],
-                "exp": 91092
+                "exp": 442051
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        52488000
+                        174960000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10564,13 +10569,13 @@ const florrio_mobs = [
                         12
                     ]
                 ],
-                "exp": 9061729
+                "exp": 16727376
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        787320000
+                        1049760000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10597,7 +10602,7 @@ const florrio_mobs = [
         "drops": [
             {
                 "baseChance": 1,
-                "type": 16
+                "type": 117
             },
             {
                 "baseChance": 0.04,
@@ -10699,7 +10704,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10716,7 +10721,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10727,13 +10732,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 73264
+                "exp": 336084
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10744,13 +10749,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 7079073
+                "exp": 11853780
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -10786,7 +10791,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        15
+                        30
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10803,7 +10808,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        45
+                        90
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10819,7 +10824,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        135
+                        270
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10836,7 +10841,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        405
+                        810
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10853,7 +10858,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        1215
+                        2430
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10866,11 +10871,11 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        3645
+                        7290
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10883,28 +10888,28 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        10935
+                        21870
                     ],
                     [
                         "Mob/Attribute/Armor",
                         583
                     ]
                 ],
-                "exp": 23718
+                "exp": 159728
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        32805
+                        65610
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10918,17 +10923,17 @@ const florrio_mobs = [
                         32805
                     ]
                 ],
-                "exp": 2592285
+                "exp": 8123053
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
-                        98415
+                        196830
                     ],
                     [
                         "Mob/Attribute/Armor",
@@ -10949,15 +10954,19 @@ const florrio_mobs = [
         "id": 70,
         "drops": [
             {
-                "baseChance": 0.35,
+                "baseChance": 1,
                 "type": 98
+            },
+            {
+                "baseChance": 1,
+                "type": 94
             },
             {
                 "baseChance": 0.05,
                 "type": 69
             },
             {
-                "baseChance": 0.001,
+                "baseChance": 0.002,
                 "type": 93
             }
         ],
@@ -10994,7 +11003,8 @@ const florrio_mobs = [
                         "Mob/Attribute/Armor",
                         17
                     ]
-                ]
+                ],
+                "exp": 2
             },
             {
                 "tooltip": [
@@ -11011,7 +11021,7 @@ const florrio_mobs = [
                         52
                     ]
                 ],
-                "exp": 5
+                "exp": 7
             },
             {
                 "tooltip": [
@@ -11028,7 +11038,7 @@ const florrio_mobs = [
                         157
                     ]
                 ],
-                "exp": 33
+                "exp": 54
             },
             {
                 "tooltip": [
@@ -11045,13 +11055,13 @@ const florrio_mobs = [
                         470
                     ]
                 ],
-                "exp": 297
+                "exp": 522
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11062,13 +11072,13 @@ const florrio_mobs = [
                         1409
                     ]
                 ],
-                "exp": 4027
+                "exp": 6013
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11079,13 +11089,13 @@ const florrio_mobs = [
                         4228
                     ]
                 ],
-                "exp": 34323
+                "exp": 340975
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11096,13 +11106,13 @@ const florrio_mobs = [
                         11518
                     ]
                 ],
-                "exp": 3711847
+                "exp": 11870866
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11119,6 +11129,10 @@ const florrio_mobs = [
     {
         "id": 71,
         "drops": [
+            {
+                "baseChance": 1,
+                "type": 94
+            },
             {
                 "baseChance": 0.75,
                 "type": 95
@@ -11138,7 +11152,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11163,7 +11177,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11175,7 +11189,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        18.75
+                        25
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11187,7 +11201,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11199,7 +11213,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        67.5
+                        125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11212,7 +11226,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11224,7 +11238,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        270
+                        625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11237,7 +11251,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11249,7 +11263,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        1620
+                        3125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11262,7 +11276,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11274,7 +11288,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        12150
+                        15625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11287,7 +11301,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11299,20 +11313,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        145800
+                        78125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         7290
                     ]
                 ],
-                "exp": 93627
+                "exp": 475190
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11324,20 +11338,20 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        6561000
+                        390625
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
                         21870
                     ]
                 ],
-                "exp": 9815499
+                "exp": 19958311
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11349,7 +11363,7 @@ const florrio_mobs = [
                     ],
                     [
                         "Mob/Attribute/MissileHealth",
-                        98415000
+                        1953125
                     ],
                     [
                         "Mob/Attribute/MissileDamage",
@@ -11367,6 +11381,14 @@ const florrio_mobs = [
                 "type": 94
             },
             {
+                "baseChance": 0.25,
+                "type": 107
+            },
+            {
+                "baseChance": 0.1,
+                "type": 116
+            },
+            {
                 "baseChance": 0.05,
                 "type": 69
             }
@@ -11377,7 +11399,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        62.5
+                        60
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11394,7 +11416,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        234.375
+                        225
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11410,7 +11432,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        843.75
+                        810
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11421,13 +11443,13 @@ const florrio_mobs = [
                         25
                     ]
                 ],
-                "exp": 2
+                "exp": 5
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        3375
+                        3240
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11438,13 +11460,13 @@ const florrio_mobs = [
                         76
                     ]
                 ],
-                "exp": 8
+                "exp": 40
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        20250
+                        19440
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11455,13 +11477,13 @@ const florrio_mobs = [
                         227
                     ]
                 ],
-                "exp": 67
+                "exp": 363
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        151875
+                        189540
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11472,13 +11494,13 @@ const florrio_mobs = [
                         680
                     ]
                 ],
-                "exp": 4074
+                "exp": 5261
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1822500
+                        11809800
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11489,13 +11511,13 @@ const florrio_mobs = [
                         2041
                     ]
                 ],
-                "exp": 72678
+                "exp": 236317
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        82012496
+                        262440000
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11506,13 +11528,13 @@ const florrio_mobs = [
                         4957
                     ]
                 ],
-                "exp": 7073830
+                "exp": 11873539
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1230187520
+                        1574640000
                     ],
                     [
                         "Mob/Attribute/Damage/Lightning",
@@ -11628,7 +11650,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11645,7 +11667,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11656,13 +11678,13 @@ const florrio_mobs = [
                         7873
                     ]
                 ],
-                "exp": 72900
+                "exp": 353709
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11673,13 +11695,13 @@ const florrio_mobs = [
                         22453
                     ]
                 ],
-                "exp": 8751170
+                "exp": 16280939
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11697,8 +11719,16 @@ const florrio_mobs = [
         "id": 74,
         "drops": [
             {
+                "baseChance": 1,
+                "type": 94
+            },
+            {
                 "baseChance": 0.65,
                 "type": 101
+            },
+            {
+                "baseChance": 0.5,
+                "type": 29
             },
             {
                 "baseChance": 0.05,
@@ -11768,7 +11798,7 @@ const florrio_mobs = [
                         45
                     ]
                 ],
-                "exp": 6
+                "exp": 9
             },
             {
                 "tooltip": [
@@ -11789,7 +11819,7 @@ const florrio_mobs = [
                         135
                     ]
                 ],
-                "exp": 44
+                "exp": 74
             },
             {
                 "tooltip": [
@@ -11810,13 +11840,13 @@ const florrio_mobs = [
                         405
                     ]
                 ],
-                "exp": 406
+                "exp": 692
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        182250
+                        236925
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11831,13 +11861,13 @@ const florrio_mobs = [
                         1215
                     ]
                 ],
-                "exp": 4974
+                "exp": 8471
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2187000
+                        14762250
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11852,13 +11882,13 @@ const florrio_mobs = [
                         3645
                     ]
                 ],
-                "exp": 53827
+                "exp": 465978
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        98415000
+                        328049984
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11873,13 +11903,13 @@ const florrio_mobs = [
                         10935
                     ]
                 ],
-                "exp": 5539079
+                "exp": 20017732
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1476225024
+                        1968300032
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -11892,6 +11922,157 @@ const florrio_mobs = [
                     [
                         "Mob/Attribute/DamagePerSecond/Lightning",
                         32805
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "sid": "assembler",
+        "rarities": [
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        100
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        1
+                    ]
+                ],
+                "exp": 1
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        375
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        2
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        1350
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        7
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        5400
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        22
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        32400
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        65
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        315900
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        194
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        19683000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        437400000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        2624399872
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        0
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
                     ]
                 ]
             }
@@ -12019,7 +12200,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        121500
+                        157950
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12034,13 +12215,13 @@ const florrio_mobs = [
                         3645
                     ]
                 ],
-                "exp": 6063
+                "exp": 3008
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1458000
+                        9841500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12055,13 +12236,13 @@ const florrio_mobs = [
                         10935
                     ]
                 ],
-                "exp": 94948
+                "exp": 160147
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        65610000
+                        218700000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12076,13 +12257,13 @@ const florrio_mobs = [
                         32805
                     ]
                 ],
-                "exp": 9578799
+                "exp": 7668299
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        984150016
+                        1312199936
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12113,7 +12294,7 @@ const florrio_mobs = [
             },
             {
                 "baseChance": 0.05,
-                "type": 16
+                "type": 113
             }
         ],
         "sid": "beetle_mummy",
@@ -12122,7 +12303,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        100
+                        70
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12143,7 +12324,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        375
+                        262.5
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12163,7 +12344,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1350
+                        945
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12184,7 +12365,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        5400
+                        3780
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12205,7 +12386,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        32400
+                        22680
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12226,7 +12407,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        221130
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12247,7 +12428,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        13778100
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12262,13 +12443,13 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 39165
+                "exp": 259782
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        306180000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12283,13 +12464,13 @@ const florrio_mobs = [
                         8
                     ]
                 ],
-                "exp": 4471978
+                "exp": 13095895
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        1837080064
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12433,7 +12614,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        243000
+                        315900
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12454,7 +12635,7 @@ const florrio_mobs = [
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2916000
+                        19683000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12469,13 +12650,13 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 134399
+                "exp": 604399
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        131220000
+                        437400000
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12490,13 +12671,13 @@ const florrio_mobs = [
                         8
                     ]
                 ],
-                "exp": 12951102
+                "exp": 19681955
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        1968300032
+                        2624399872
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12522,6 +12703,10 @@ const florrio_mobs = [
                 "type": 66
             },
             {
+                "baseChance": 0.5,
+                "type": 111
+            },
+            {
                 "baseChance": 0.25,
                 "type": 105
             }
@@ -12543,7 +12728,7 @@ const florrio_mobs = [
                         1
                     ]
                 ],
-                "exp": 1
+                "exp": 2
             },
             {
                 "tooltip": [
@@ -12560,7 +12745,7 @@ const florrio_mobs = [
                         2
                     ]
                 ],
-                "exp": 2
+                "exp": 3
             },
             {
                 "tooltip": [
@@ -12577,7 +12762,7 @@ const florrio_mobs = [
                         7
                     ]
                 ],
-                "exp": 9
+                "exp": 12
             },
             {
                 "tooltip": [
@@ -12594,7 +12779,7 @@ const florrio_mobs = [
                         22
                     ]
                 ],
-                "exp": 68
+                "exp": 99
             },
             {
                 "tooltip": [
@@ -12611,13 +12796,13 @@ const florrio_mobs = [
                         65
                     ]
                 ],
-                "exp": 645
+                "exp": 931
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        364500
+                        473850
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12628,13 +12813,13 @@ const florrio_mobs = [
                         194
                     ]
                 ],
-                "exp": 7608
+                "exp": 11106
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        4374000
+                        29524500
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12645,13 +12830,13 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 88931
+                "exp": 629739
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        196830000
+                        656099968
                     ],
                     [
                         "Mob/Attribute/Damage",
@@ -12662,17 +12847,677 @@ const florrio_mobs = [
                         583
                     ]
                 ],
-                "exp": 8828414
+                "exp": 25061827
             },
             {
                 "tooltip": [
                     [
                         "Mob/Attribute/Health",
-                        2952450048
+                        3936600064
                     ],
                     [
                         "Mob/Attribute/Damage",
                         19683
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "drops": [
+            {
+                "baseChance": 0.75,
+                "type": 111
+            },
+            {
+                "baseChance": 0.25,
+                "type": 110
+            }
+        ],
+        "sid": "silverfish",
+        "rarities": [
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        50
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        30
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        1
+                    ]
+                ],
+                "exp": 1
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        187.5
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        90
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        2
+                    ]
+                ],
+                "exp": 2
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        675
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        270
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        7
+                    ]
+                ],
+                "exp": 8
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        2700
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        810
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        22
+                    ]
+                ],
+                "exp": 60
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        16200
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        2430
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        65
+                    ]
+                ],
+                "exp": 563
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        157950
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        7290
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        194
+                    ]
+                ],
+                "exp": 6868
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        9841500
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        21870
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 381476
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        218700000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        65610
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 16028874
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        1312199936
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        196830
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "drops": [
+            {
+                "baseChance": 0.25,
+                "type": 52
+            },
+            {
+                "baseChance": 0.25,
+                "type": 112
+            }
+        ],
+        "sid": "garbage",
+        "rarities": [
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        250
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        3
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        1
+                    ]
+                ],
+                "exp": 1
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        937.5
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        9
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        2
+                    ]
+                ],
+                "exp": 2
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        3375
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        27
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        7
+                    ]
+                ],
+                "exp": 5
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        13500
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        81
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        22
+                    ]
+                ],
+                "exp": 41
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        81000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        243
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        65
+                    ]
+                ],
+                "exp": 379
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        789750
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        729
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        194
+                    ]
+                ],
+                "exp": 5228
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        49207500
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        2187
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 260438
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        1093500032
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        6561
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 12951125
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        6560999936
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        19683
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "drops": [
+            {
+                "baseChance": 1,
+                "type": 114
+            },
+            {
+                "baseChance": 1,
+                "type": 13
+            }
+        ],
+        "sid": "ant_soldier_diver",
+        "rarities": [
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        100
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        10
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        1
+                    ]
+                ],
+                "exp": 1
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        375
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        30
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        2
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        1350
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        90
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        7
+                    ]
+                ],
+                "exp": 6
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        5400
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        270
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        22
+                    ]
+                ],
+                "exp": 47
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        32400
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        810
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        65
+                    ]
+                ],
+                "exp": 455
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        315900
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        2430
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        194
+                    ]
+                ],
+                "exp": 8049
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        19683000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        7290
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 604399
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        437400000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        21870
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ],
+                "exp": 19681955
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        2624399872
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        65610
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "drops": [
+            {
+                "baseChance": 1,
+                "type": 1
+            }
+        ],
+        "sid": "ghost",
+        "rarities": [
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        50
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        10
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        1
+                    ]
+                ],
+                "exp": 1
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        187.5
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        30
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        2
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        675
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        90
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        7
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        2700
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        270
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        22
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        16200
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        810
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        65
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        157950
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        2430
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        194
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        9841500
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        7290
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        218700000
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        21870
+                    ],
+                    [
+                        "Mob/Attribute/Armor",
+                        583
+                    ]
+                ]
+            },
+            {
+                "tooltip": [
+                    [
+                        "Mob/Attribute/Health",
+                        1312199936
+                    ],
+                    [
+                        "Mob/Attribute/Damage",
+                        65610
                     ],
                     [
                         "Mob/Attribute/Armor",

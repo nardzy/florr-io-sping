@@ -64,6 +64,24 @@ const discord_serve = (port: number) => {
 
     };
 
+    const write_rift = (
+        id: string,
+        region: Region
+    ) => {
+
+        packer.write_u8(
+            PackSignal.RiftNotify
+        );
+
+        packer.write_u8_str(id);
+        packer.write_u8(region);
+
+        const buf = packer.release_view();
+
+        return buf;
+
+    };
+
     const write_spawn = (
         id: string,
         id_mob: number,
@@ -215,6 +233,7 @@ const discord_serve = (port: number) => {
 
             const is_defeated = text.includes("n d");
             const is_summoned = text.includes("n s");
+            const is_rift = text === "A mysterious rift has opened!";
 
             const n = message.thumbnail?.url.split("/");
             const nam = n ? n[n?.length - 1].split(".png")[0].split("-")[1] : null;
@@ -243,6 +262,10 @@ const discord_serve = (port: number) => {
                 id,
                 region_id,
                 is_super
+            )
+            : is_rift ? write_rift(
+                msg.id,
+                region_id
             )
             : write_spawn(
                 msg.id,

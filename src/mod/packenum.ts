@@ -3,4 +3,5 @@ export enum PackSignal {
     SpawnNotify,
     DefeatNotify,
     SummonNotify,
+    RiftNotify
 }
