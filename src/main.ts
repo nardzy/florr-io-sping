@@ -235,12 +235,25 @@ const discord_serve = (port: number) => {
             const is_summoned = text.includes("n s");
             const is_rift = text === "A mysterious rift has opened!";
 
-            const n = message.thumbnail?.url.split("/");
-            const nam = n ? n[n?.length - 1].split(".png")[0].split("-")[1] : null;
-            const name = nam ?? "";
+            // console.log(text);
 
             const region = tag.match(/\((.*?)\)/i)?.[1];
             const region_id = convert_region(region ?? "");
+
+            console.log(text, "\n", text.length, "defeated: ", is_defeated, "summoned: ", is_summoned, "rift: ", is_rift)
+
+            if (is_rift) {
+                const buf = write_rift(
+                    msg.id,
+                    region_id
+                );
+                broadcast(buf);
+                return;
+            }
+
+            const n = message.thumbnail?.url.split("/");
+            const nam = n ? n[n.length - 1].split(".png")[0].split("-")[1] : null;
+            const name = nam ?? "";
 
             const id = florrio_get_mob_by_sid(name)?.id;
 
@@ -262,10 +275,6 @@ const discord_serve = (port: number) => {
                 id,
                 region_id,
                 is_super
-            )
-            : is_rift ? write_rift(
-                msg.id,
-                region_id
             )
             : write_spawn(
                 msg.id,
